@@ -2,4 +2,4 @@
 
 ## Escalando Aplicaciones con Angular
 
-<img src="src/assets/img/draws/draw_angular.png" width=552 align="center"> 
+<img src="https://res.cloudinary.com/boolean-spa/image/upload/v1589763527/angular_kwsreu.jpg" width=552 align="center"> 
